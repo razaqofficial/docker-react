@@ -19,4 +19,4 @@ deploy:
   secret_access_key:
     secure: "$AWS_SECRET_KEY"
   on:
-    branch: master
+    branch: main
